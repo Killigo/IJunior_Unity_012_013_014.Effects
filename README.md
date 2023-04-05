@@ -1,2 +1,2 @@
-# IJunior_Unity_012_013_014.Effects
- 
+# Демонстрация работы доступна в видео по пути:
+\Recordings\movie_001.mp4
